@@ -768,6 +768,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Md Ranju](https://www.mdranju.xyz) [Frontend Developer]
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
 - [Mees Verberne](https://meesverberne.com/) [Creative Frontend Developer & Designer]
+- [Meet Vaghani](https://meetvaghani.netlify.app) [Full Stack Developer | AI-ML.]
 - [Meet Vipul Gandhi](https://portfolio-nu-lovat-90.vercel.app/project) [Software Developer]
 - [Mehdi Ali](https://exoo25.github.io)
 - [MeiCloudie](https://thucvan-portfolio.vercel.app) [Software Engineer]
@@ -788,7 +789,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Miguel Migliorelli](https://migliorelli.dev/)
 - [Miguel Rodriguez](https://migu.es)
 - [Minmitha A](https://minmitha.vercel.app)
-- [Meet Vaghani](https://meetvaghani.netlify.app)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
